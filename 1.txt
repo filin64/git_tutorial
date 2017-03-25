@@ -1,1 +1,1 @@
-Isn't added to git yet
+It is master commit
