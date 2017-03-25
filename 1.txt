@@ -1,1 +1,2 @@
 It is master commit
+Now it is also fourth
